@@ -1,0 +1,3 @@
+[submodule "quickbuild"]
+	path = quickbuild
+	url = git@github.com:lanceman2/quickbuild.git
